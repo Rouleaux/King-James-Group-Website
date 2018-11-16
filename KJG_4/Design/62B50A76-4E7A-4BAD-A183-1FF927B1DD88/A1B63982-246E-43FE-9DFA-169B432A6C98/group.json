@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -35,7 +35,7 @@
     },
     {
       "class": "bitmap",
-      "id": "187AF522-4603-4BD1-9490-9D13EF8A7F65"
+      "id": "0B2534AA-D326-4074-8106-2164C4AD530B"
     }
   ],
   "name": "James Barty_web_pic",

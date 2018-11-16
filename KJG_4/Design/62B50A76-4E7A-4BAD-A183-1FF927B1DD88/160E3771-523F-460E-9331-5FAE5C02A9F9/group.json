@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "160E3771-523F-460E-9331-5FAE5C02A9F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA74A8B2-A98D-4B30-B8D3-2CF2A817035A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC31279E-8683-45E1-885F-0865B02288C4",
+    "height": 1247,
+    "width": 1280,
+    "x": 0,
+    "y": 3309
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6E6BE07C-FD6B-48C1-ABAA-787877AC9B92"
+    }
+  ],
+  "name": "2011-HC-Alistair-King Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25737B5F-B4C7-48CE-A496-0D04CE7850EA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

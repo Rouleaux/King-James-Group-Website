@@ -30,12 +30,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "160E0A1C-17B5-48FB-B26B-22ED2DE3AE83"
-    },
-    {
-      "class": "bitmap",
-      "id": "568E5EA7-0096-4B18-86B8-08612C598AF2"
+      "class": "group",
+      "id": "E73F080B-EA66-4559-B2DB-A71B027F23EE"
     }
   ],
   "name": "2011-HC-Alistair-King",

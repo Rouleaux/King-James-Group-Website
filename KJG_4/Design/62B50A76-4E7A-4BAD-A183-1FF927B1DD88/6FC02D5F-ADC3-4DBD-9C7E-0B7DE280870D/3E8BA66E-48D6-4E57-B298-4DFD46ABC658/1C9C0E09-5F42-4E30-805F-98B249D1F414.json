@@ -29,11 +29,11 @@
             "minimumLineHeight": 32
           }
         },
-        "length": 9,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "Cape Town"
+    "string": "All"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "5A7CE92F-0DB7-4156-8D9B-6B3352F86070",
     "height": 32,
-    "width": 124,
+    "width": 28,
     "x": 0,
     "y": 43
   },
-  "glyphBounds": "{{1, 8}, {121, 21}}",
+  "glyphBounds": "{{0, 7}, {26, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Cape Town",
+  "name": "All",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
