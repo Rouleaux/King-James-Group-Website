@@ -1,0 +1,120 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCF241DD-81A8-4DA2-A23D-69897A5525F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 12.77220819687344,
+    "width": 63.87695738907848,
+    "x": 942.08585065987,
+    "y": 499.3510094083892
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FAFA037F-863A-4A89-AEC4-2C5D517FFBA7"
+    },
+    {
+      "class": "shapePath",
+      "id": "390C775C-BF58-4A73-A1F5-903169F6E7C2"
+    },
+    {
+      "class": "shapePath",
+      "id": "6F40DE5A-A2BD-4F44-8257-F2FA75B6CB36"
+    },
+    {
+      "class": "shapePath",
+      "id": "54CB2921-FC2F-4CF5-BAB8-F8E0D8ADE306"
+    },
+    {
+      "class": "shapePath",
+      "id": "C4AA5A2D-BC8E-4885-96D2-0A4E4AB7FC4B"
+    },
+    {
+      "class": "shapePath",
+      "id": "E33D8EA7-1614-4F8A-976E-0C611E19194C"
+    },
+    {
+      "class": "shapePath",
+      "id": "ABA192E1-7E16-4916-A53C-F106C49FDB2B"
+    }
+  ],
+  "name": "GROUP",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 90,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3568627450980392,
+          "green": 0.1098039215686275,
+          "red": 0.8823529411764706
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "GaramondPremrPro",
+            "size": 22
+          }
+        },
+        "kerning": 0.05415384,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

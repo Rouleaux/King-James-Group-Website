@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "32EAB471-C8AA-464F-AB2B-886EF7DDCC66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1262034-BF07-470A-BC70-1E885E01A6EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1C8E63B-C5A8-45E8-8FAA-036126B6A108",
+    "height": 143.3671128107075,
+    "width": 739.0057361376676,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B3D4B64D-B7AD-4121-B813-178279C47FE7"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA746CD9-1C92-4367-9826-30121D78A311"
+    },
+    {
+      "class": "shapePath",
+      "id": "D86CE76C-3CCB-4C08-83B9-15DD0929DEDA"
+    },
+    {
+      "class": "shapePath",
+      "id": "D127AE09-EB74-4FED-8F54-D5B16CC5D3AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "5B691080-FEC8-407F-AE13-FE5E827CA0F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "5C147FEF-2FEA-4992-8E7A-7494E96C3521"
+    },
+    {
+      "class": "shapePath",
+      "id": "4132A28A-B1C9-42F5-B6BE-27D09D5B9333"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6DA8DF8-8856-4292-B889-A11E57147F19"
+    },
+    {
+      "class": "shapePath",
+      "id": "69384FE1-3F7D-4CA7-9DA8-ABADBB935DBD"
+    },
+    {
+      "class": "shapePath",
+      "id": "88976F36-FA0A-4D8D-9AB4-5EFCC1895675"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3269497-4E66-4E11-9B00-52B143E07A66",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

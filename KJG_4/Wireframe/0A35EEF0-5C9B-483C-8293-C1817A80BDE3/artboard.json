@@ -1,0 +1,202 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8FC61219-BB87-4653-8B47-A2232682DA82",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A35EEF0-5C9B-483C-8293-C1817A80BDE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED4FF4FC-A79D-44CA-8106-7926805372B2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55749FB0-1AC0-48FE-B294-15C14E8B82B6",
+    "height": 2280,
+    "width": 1440,
+    "x": 3472,
+    "y": -4118
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "41CADD9F-28A6-482D-AC66-439A4C272326",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 4
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "800BC67E-181B-410C-A451-9698D2E57D2D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "23B8DB36-4638-4493-95B4-E17936CDDD79"
+    },
+    {
+      "class": "group",
+      "id": "42EDD7B2-96C2-488B-94CC-B2DA88D62447"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F8B839F-C61D-4117-BC89-1BCC7F6D8F23"
+    },
+    {
+      "class": "text",
+      "id": "0BE038BD-4380-48BF-B7EC-13B9416698A4"
+    },
+    {
+      "class": "group",
+      "id": "8B524419-F485-4080-BA09-8F300DD43F3A"
+    },
+    {
+      "class": "group",
+      "id": "9B0A9B40-AA8A-485D-8CBF-EFC97E90D20C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70CFE0BF-F5B9-4EB9-8A8C-04885DCE7C15"
+    },
+    {
+      "class": "group",
+      "id": "6FEB4497-DACE-4322-8997-BF99DE3AC2FB"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 64,
+    "do_objectID": "355B21F3-4D32-4B70-AEFF-B232EFAE7DB2",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 16,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 144,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1152
+  },
+  "name": "05 Careers - Job posting",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62A3111E-B612-42F0-947C-0BE72E8DCB46",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2543048469387755,
+                "green": 0.2310909003086912,
+                "red": 0.217825787948643
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1DEF916F-8880-4ED6-A275-FD89147EC4B9",
+    "guides": [
+    ]
+  }
+}

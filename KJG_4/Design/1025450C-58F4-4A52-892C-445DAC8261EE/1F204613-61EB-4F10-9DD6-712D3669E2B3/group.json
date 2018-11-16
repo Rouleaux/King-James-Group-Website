@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1F204613-61EB-4F10-9DD6-712D3669E2B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76024475-C18F-4E00-967C-83B9FDF35535",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A02049EC-2D6E-449C-AD39-C5BDE004667F",
+    "height": 753,
+    "width": 358,
+    "x": 1081,
+    "y": 162
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B2641206-8AEA-4CA9-A696-39AB06FCBF52"
+    },
+    {
+      "class": "bitmap",
+      "id": "772EDB9D-1231-457D-9779-510337F8A7DF"
+    }
+  ],
+  "name": "Group 7 Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "D431EAEE-F11B-4EEB-870D-C3AF5F8E83D5",
+      "opacity": 0.4950706845238095
+    },
+    "do_objectID": "2E70F1C6-4B63-4BE5-B6E3-B421AEE09008",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

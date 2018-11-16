@@ -1,0 +1,152 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1568627450980392,
+    "do_objectID": "C6C679F8-19ED-4A69-A104-A956E00693D3",
+    "green": 0.09019607843137253,
+    "red": 0.1254901960784314
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ECD8BACD-121B-4DF3-A15C-45BF4F8F705D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD6CB38E-E1C6-47CE-85EB-857D9C575802",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CE62B51-EDB5-4D92-ACE2-1DFA3144E8BF",
+    "height": 1600,
+    "width": 2560,
+    "x": 12634,
+    "y": 4045
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C2C9814B-215B-49B6-ACEB-5694F19052E6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "0CDA9DC2-063F-4411-9D5F-1A139CAAB55B"
+    },
+    {
+      "class": "rectangle",
+      "id": "F3D2DF85-E79E-4DB6-9FBD-FA57C435AA38"
+    },
+    {
+      "class": "shapePath",
+      "id": "57AD3FFF-1266-4744-81E9-FF009EF116A3"
+    },
+    {
+      "class": "group",
+      "id": "656189B6-CDC2-462B-9F59-BCA205486C75"
+    },
+    {
+      "class": "text",
+      "id": "503A7B2B-A55B-4B5E-A60A-0CA5F33D03EF"
+    },
+    {
+      "class": "text",
+      "id": "8A880BFD-82F5-40C2-8273-7E87B0545BD6"
+    },
+    {
+      "class": "text",
+      "id": "A8A4C51D-CF8A-499D-8D96-F08FD302348C"
+    },
+    {
+      "class": "group",
+      "id": "6957BEF5-4DDC-4E16-9B95-45A73488B06B"
+    },
+    {
+      "class": "group",
+      "id": "A07E8147-D128-4C97-BDB4-311763B961A8"
+    },
+    {
+      "class": "group",
+      "id": "3CB751E1-AD81-4980-AE9E-00B28832B830"
+    },
+    {
+      "class": "group",
+      "id": "5BF50FE0-BB02-465A-A7E1-557BD09601E2"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "5B7F16A0-DBBD-4A9F-B02B-A409E53B372E",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Menu isiXhosa",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25858CB6-6F75-4D51-9F68-082979D93CA5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "94ED783D-AC0E-40D2-80C3-4538D15AA74B",
+    "guides": [
+    ]
+  }
+}

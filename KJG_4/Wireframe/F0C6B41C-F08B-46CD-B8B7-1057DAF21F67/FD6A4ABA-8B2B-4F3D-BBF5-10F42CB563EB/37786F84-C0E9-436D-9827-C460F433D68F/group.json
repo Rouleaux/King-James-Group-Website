@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "37786F84-C0E9-436D-9827-C460F433D68F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ADE6FF2D-F82E-4ACC-9B77-314E8F49F62C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "647096EE-F03E-4219-AD3C-5359850A39C0",
+    "height": 1694,
+    "width": 1023,
+    "x": 209,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B742AF63-6673-4C9B-8BA6-6FF3B28008D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "477CEB9F-2F6B-4403-A946-3CF8FFE4341A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2898D558-47E1-4BB9-B705-2811D867EA6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22405E8C-2C41-4563-BCA9-5180815F8171"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AF8401F-77EB-47DA-807E-32AFC379CC28"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "203D37D5-A69D-4D54-AD1D-E1D6365A9740"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85D9C7F9-3658-42F6-B07C-6569AACDE225"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B49CA92F-68A1-422B-A6AE-D6294C6F2262"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6489B67F-7A3A-4FD4-801F-9ABCFC9A8BF1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31306861-7AA5-48D3-9A59-EAE44766F73A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "385EF3F0-226A-48B3-904B-04BB4354C930"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC840229-43C0-4649-A7BC-4ED0D9F27A33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B69FE32-5C5A-4815-80A0-0D894A65FEEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89B2C218-E346-4761-AEA6-1F36227FBFB5"
+    }
+  ],
+  "name": "Group 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "98F95C1A-106C-443F-B88F-9E56B8E2B41C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

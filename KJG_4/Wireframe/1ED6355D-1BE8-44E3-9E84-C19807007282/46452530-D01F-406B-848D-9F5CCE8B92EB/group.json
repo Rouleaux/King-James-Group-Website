@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "46452530-D01F-406B-848D-9F5CCE8B92EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D67413E-273E-4FEE-95F7-957AF53D2564",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE61C99C-BB2C-463C-A285-33FE9E5C9434",
+    "height": 434,
+    "width": 352,
+    "x": 560,
+    "y": 338
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9AC04F87-991D-49F9-BC0D-7B3E3D575E20"
+    }
+  ],
+  "name": "examples/websites/blog-item-1-3 copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBA890B9-0BDE-4055-8C66-0FA616C86F1A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

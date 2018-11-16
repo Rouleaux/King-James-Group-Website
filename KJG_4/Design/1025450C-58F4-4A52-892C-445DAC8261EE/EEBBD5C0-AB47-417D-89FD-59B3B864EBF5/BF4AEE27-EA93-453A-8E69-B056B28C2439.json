@@ -1,0 +1,75 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "BF4AEE27-EA93-453A-8E69-B056B28C2439",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "811EA73C-4E4D-40BB-B0E9-907832373BD0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "33D70CC0-9C3B-4FB4-8376-ABAC336C62FE",
+    "height": 826.1250000000001,
+    "width": 1468.666666666667,
+    "x": -458,
+    "y": -73
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a363bf2eed5ea837f2e3302f2ff586975969a7bd.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "TreesBro",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDA14AD1-B223-4B3C-BB1B-3DA05D63EC57",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 826.125,
+            "enabled": 1,
+            "modelID": "constraint_15523583-398f-40f7-ae9e-0f44761c8187",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 1468.667
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_4b48e2d9-b666-44e7-9734-e7c8ceb48d58",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

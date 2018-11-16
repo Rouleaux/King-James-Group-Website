@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCDFC4BA-1403-41A7-84C5-7B2D7DD2C3E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FC5CEAA-3F32-4389-879F-66CD9E8E7782",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A408937-F4E0-4A51-A56C-825001D79BBE",
+    "height": 143.3671128107075,
+    "width": 739.0057361376676,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "51C9EE5D-F635-4131-99D8-704A21ADA67E"
+    },
+    {
+      "class": "shapePath",
+      "id": "827E72DF-0FBA-4031-884E-4A0CAA6712E3"
+    },
+    {
+      "class": "shapePath",
+      "id": "909BE6AB-6999-4A48-89F9-88EECA64962B"
+    },
+    {
+      "class": "shapePath",
+      "id": "9E62593A-8D23-4F72-B2BF-5CA56A454B8E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B5B8139B-9010-405E-93CC-08105FDC8B2C"
+    },
+    {
+      "class": "shapePath",
+      "id": "C75B93FC-0766-4D7C-B397-6D255B1041DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "43266562-F7FF-4E78-B495-6C2BE1F1748B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50A1358F-4676-4CCE-ABE7-FE30243BEC82"
+    },
+    {
+      "class": "shapePath",
+      "id": "E434168C-AB58-4A0D-AD02-6F2B31A107A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "FC632078-9FE5-440D-A749-082E285B265F"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7216D7F5-71C1-4167-9E3C-85471D007BA4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

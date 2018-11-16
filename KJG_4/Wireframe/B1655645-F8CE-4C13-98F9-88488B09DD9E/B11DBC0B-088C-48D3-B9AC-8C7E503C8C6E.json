@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B11DBC0B-088C-48D3-B9AC-8C7E503C8C6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F3744BFB-D51D-4891-A263-9DD65752FB72",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82B4001F-2B7D-4ABF-A8B4-B220354426A9",
+    "height": 438,
+    "width": 352,
+    "x": 964,
+    "y": 338
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "examples/websites/blog-item-1-3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BA368424-D635-4F97-87B2-A07A62AD4E71",
+      "overrideName": "B9A84F30-E5E7-4DB7-9154-127A6563D5F6_stringValue",
+      "value": "Atmosphere"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48047AD8-6E71-4053-99B5-D1063315EA35",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "16A1097D-E0FE-4B88-A15E-5ECDE8F195A8",
+  "verticalSpacing": 0
+}

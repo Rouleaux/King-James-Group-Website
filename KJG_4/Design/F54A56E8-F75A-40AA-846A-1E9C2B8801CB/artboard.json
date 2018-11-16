@@ -1,0 +1,137 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1568627450980392,
+    "do_objectID": "11988D6C-3964-4A05-804F-A1BD3B9B93A8",
+    "green": 0.09019607843137253,
+    "red": 0.1254901960784314
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F54A56E8-F75A-40AA-846A-1E9C2B8801CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0CC6E0FE-8998-45DD-8DD6-2AEC3A944337",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF45D8E1-0938-45B7-8124-B70F8A81400D",
+    "height": 1080,
+    "width": 1920,
+    "x": 814,
+    "y": -1587
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C43D77E1-FE60-48EB-92D8-B1A105C83F31",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DC843CE7-F164-40A8-99DB-A827C6B8D3DB"
+    },
+    {
+      "class": "bitmap",
+      "id": "04BCA9A5-AB41-4C57-B7DD-8D8E4D978E58"
+    },
+    {
+      "class": "text",
+      "id": "9B742E91-01B4-448D-9AB8-6FC80EBF7B95"
+    },
+    {
+      "class": "text",
+      "id": "4D6C80CC-777B-4452-B4B8-CAFA1915C382"
+    },
+    {
+      "class": "text",
+      "id": "7D25A571-98C4-4DD9-8995-C8304D121013"
+    },
+    {
+      "class": "text",
+      "id": "4CA5DF2B-1BAF-4D68-BC89-8C60F42A0DAC"
+    },
+    {
+      "class": "text",
+      "id": "B4A20FBD-247A-46DA-B4E7-FEB1C91BF34C"
+    },
+    {
+      "class": "text",
+      "id": "5548A7B4-BA72-4AA9-A3C7-A2CB96A599A6"
+    },
+    {
+      "class": "text",
+      "id": "F93FF9DE-2D1E-45B6-9068-B83A306424FA"
+    },
+    {
+      "class": "text",
+      "id": "3DDCF543-FCCD-416C-A3D6-84C11E1F5C25"
+    },
+    {
+      "class": "text",
+      "id": "7D642456-B0BB-41E2-B0D4-2E44853566E4"
+    },
+    {
+      "class": "text",
+      "id": "F76DF47D-F138-4CAC-9DF8-B70A15B3EBEE"
+    },
+    {
+      "class": "text",
+      "id": "D5646A46-CAED-4CA7-85D4-8364B0C93AE9"
+    }
+  ],
+  "name": "KJ CI 3 TYPOGRAPHY",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D73F2F8-954E-497C-85AC-BC533DF9459E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D68972CE-9359-497C-83A8-C30B0554FC41",
+    "guides": [
+    ]
+  }
+}

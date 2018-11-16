@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBA19D5B-7300-4DEE-A0A7-D3EAA51ECBC2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40CEC549-B601-4A9F-BFC3-5A6553EF69D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DA6ED2C6-078A-41FF-AFCB-85AE29FE26EF",
+    "height": 438,
+    "width": 352,
+    "x": 196,
+    "y": 338
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "examples/websites/blog-item-1-3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C126080-6A78-4D3A-92BD-9AAB98E333E6",
+      "overrideName": "5D2536D7-28A6-4FCD-853B-6DC5EF3AC873_stringValue",
+      "value": "Atmosphere"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2432F106-EDAC-4977-83C0-7789A58598EC",
+      "overrideName": "653C3F7A-6440-4891-A036-833F4992FEBA_stringValue",
+      "value": "View More"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0946679-21D6-4750-8A8D-355DD25EFA04",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3BAE99A5-665F-4460-BF31-CC031A33892E",
+  "verticalSpacing": 0
+}

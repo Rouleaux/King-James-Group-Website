@@ -1,0 +1,86 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "365233C0-10D0-411F-B36B-8410DFA5EFCE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 410,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B0B225C-F8F4-4581-806F-59B30F1B9E32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C3695FA-FB0C-4652-8E5C-016BB4D0A9C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2085715-150A-4612-ABC7-E4A81A8803AA",
+    "height": 24,
+    "width": 24,
+    "x": 764,
+    "y": 496
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0B4E4D41-DBC2-4D6C-B7D5-C37440F47B19",
+    "guides": [
+      0,
+      24,
+      12
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "103FD442-F8ED-435E-B858-0F01C84A4523"
+    }
+  ],
+  "name": "icons/chevron-down/black",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "482AA1EB-DC48-44E7-9F13-51B323BF1B82",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0C522BFA-18AA-4F6B-B337-483DFFF39EB7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E32E0461-F696-4CE3-B289-5BDF6EC666EB",
+    "guides": [
+    ]
+  }
+}

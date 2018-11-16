@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1EFDBC8-5C84-4DFD-9AF3-31680FA3D817",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66CA28D2-0D80-4B78-9F48-1C556B3B9408",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "215F2D89-E8BE-42F2-94A6-6BA701162E79",
+    "height": 48,
+    "width": 353,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F7DC055E-6BD6-4DB6-9946-F469E5B9D015"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCCB9A4B-A248-43C9-A9B1-23E0563DE2DC"
+    }
+  ],
+  "name": "container/rounded/fill",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "553AB8D9-14B4-46D3-8136-6C94B1192CFC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

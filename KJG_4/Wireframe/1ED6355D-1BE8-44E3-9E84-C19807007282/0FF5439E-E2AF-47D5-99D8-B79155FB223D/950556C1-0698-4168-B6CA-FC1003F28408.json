@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "950556C1-0698-4168-B6CA-FC1003F28408",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EC75A89-D916-44EB-BC87-7C71E7DB0DF2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "70D03B78-66D2-45DD-BBB0-08EBE159AAA9",
+    "height": 56,
+    "width": 383.9999999999999,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/text-input-label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BAC3DDBA-23F9-4D3E-ABA9-1D09EE0F06F3",
+      "overrideName": "8577FF4C-A364-4EA7-8707-68B2449CEA4D/F8F1A2F1-877A-4C57-964D-C9D7D9C15248_stringValue",
+      "value": "Rouleaux van der Merwe"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88E4068A-6FA4-4118-8C10-3A08E9A62D7B",
+      "overrideName": "8577FF4C-A364-4EA7-8707-68B2449CEA4D/B804DF2A-94FE-4D3E-8782-638F84456AF6_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95F7F5CF-7635-4E02-9EFD-1A96FCC75E8C",
+      "overrideName": "0C54CBB8-877F-4B76-BB88-6C2001F3DA4C_stringValue",
+      "value": "name"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19371F9F-9319-4D93-AF43-57B2071ADB6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "51F6FE3E-00C6-4A90-8DA9-8928A81F22B5",
+  "verticalSpacing": 0
+}

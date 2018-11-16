@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CA961757-2268-4B30-AB68-8FE24E5E1030",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "990B5F00-3416-43C7-8B8E-86DD52B0E8F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5FDF7350-DE17-4CF3-A831-EF6876CCC022",
+    "height": 850,
+    "width": 237,
+    "x": 240,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BF552840-FDE1-4ACA-A938-39199A39D5C0"
+    },
+    {
+      "class": "text",
+      "id": "679AB449-BC51-4F54-A445-942E8BE7B4D6"
+    }
+  ],
+  "name": "web pages copy 7",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4FC51DA5-CF75-4A9F-8001-757164746B3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

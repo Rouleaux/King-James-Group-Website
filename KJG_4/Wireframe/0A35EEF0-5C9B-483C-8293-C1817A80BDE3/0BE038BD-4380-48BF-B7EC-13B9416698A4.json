@@ -1,0 +1,116 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2543048469387755,
+            "green": 0.2310909003086912,
+            "red": 0.217825787948643
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Avenir-Light",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 32,
+            "minimumLineHeight": 32
+          }
+        },
+        "length": 1305,
+        "location": 0
+      }
+    ],
+    "string": "We're on the hunt for Digital Media Strategist to join our King James Data & Media team in Jhb.\n\nMinimum 5 years relevant experience.\n\nThe purpose of the media strategist is to develop an in depth understanding of the client’s business and marketing goals and translate this knowledge and insight into focussed KPI channel strategies. It is also imperative that the media strategist drives key relationships within clients’ businesses to drive digital media spend competencies.\n\nCOMPETENCIES/SKILLS:\n\nManaging budgets\nManaging clients \nHaving a strong understanding of the digital media landscape and opportunities\nAccuracy\nIn-depth knowledge on ALL digital media channels\nTime management\nStrong technical and implementation knowledge\nStrong communication and relationship building skills\nQuality assurance \nMinimum 5 years experience in digital media\n\nESSENTIAL SKILLS:\n\nDeveloping and defining the digital media strategy on behalf of the client\nPresenting the digital media strategy with confidence\nDemonstrating and showing an unrivalled understanding of the digital landscape, industry tools and data interpretation\nShowing strong data analysis and interpretation skills\nKeep in touch with industry trends and attending relevant workshops to further develop skill set\nDelivering on client requirements"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0BE038BD-4380-48BF-B7EC-13B9416698A4",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E82DF82-ED6A-4461-8349-6B4E62A549C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "89D41CC9-A101-4069-B673-1FD49BA9683B",
+    "height": 992,
+    "width": 736,
+    "x": 352,
+    "y": 619
+  },
+  "glyphBounds": "{{0, 8}, {736, 977}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "We're on the hunt fo",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "4B481DA1-CB44-43CB-87F6-D643D936A07B",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "916924CB-B1C8-40AD-A4D6-6E232D598B17",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "0FACB551-EE72-4941-A6E1-E88505D9E31E",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2543048469387755,
+          "green": 0.2310909003086912,
+          "red": 0.217825787948643
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Avenir-Light",
+            "size": 16
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 3,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

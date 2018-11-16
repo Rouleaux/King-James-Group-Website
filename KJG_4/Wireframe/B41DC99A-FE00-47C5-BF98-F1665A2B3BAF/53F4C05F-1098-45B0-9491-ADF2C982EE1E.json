@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "53F4C05F-1098-45B0-9491-ADF2C982EE1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06894304-6EC6-4C29-B54D-89F065B983D7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A80BCED9-9420-4765-9602-89DEC827A89F",
+    "height": 24,
+    "width": 24,
+    "x": 1198,
+    "y": 776
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/social/facebook/black",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "215232DA-1B19-4072-9AB2-A564796E926C",
+      "opacity": 0.800000011920929
+    },
+    "do_objectID": "C85E85E4-3940-448A-9D61-008EA094F3E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3BC79D9-4EE9-47F6-A04C-A6A74059D6F9",
+  "verticalSpacing": 0
+}

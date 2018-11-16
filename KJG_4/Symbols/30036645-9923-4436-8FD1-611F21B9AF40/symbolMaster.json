@@ -1,0 +1,86 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BA977EB9-B137-47DD-B648-632B387E18A5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 8226,
+  "clippingMaskMode": 0,
+  "do_objectID": "30036645-9923-4436-8FD1-611F21B9AF40",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "475E40C1-16C1-4910-AD27-F78E2D4D0E0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8386D4F0-00D1-449A-A64B-BDDA1608A92C",
+    "height": 24,
+    "width": 24,
+    "x": 764,
+    "y": 620
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "66C9C3C4-8CD3-4893-986A-14FB8CF04F28",
+    "guides": [
+      0,
+      24,
+      12
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "56D388F7-C7B5-4BB7-BDE3-DDBCD69D3540"
+    }
+  ],
+  "name": "icons/social/instagram/black",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BD2D44C7-7539-4251-A9F1-8D95960F60F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B7FF854A-B2A8-4C46-9E52-13F42BEEE69A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "452424B9-16AB-4432-BDE3-C02EBD2A80DB",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CBEABC20-2489-4F54-B301-1FD1590138E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5FDD5C07-8B72-4AC5-96BB-DB6BD5685676",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B259E9A4-84C2-428C-8666-B63AB4BC5CA9",
+    "height": 39.06077348066297,
+    "width": 202,
+    "x": 234,
+    "y": 454
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0EB630C1-F6CE-435C-ACFB-BFEA2D02B5F8"
+    },
+    {
+      "class": "shapePath",
+      "id": "2183CC0C-FF1B-46EF-A39E-A0B5286C922D"
+    },
+    {
+      "class": "shapePath",
+      "id": "8A2146EE-5096-4741-B571-F50FC7885DFA"
+    },
+    {
+      "class": "shapePath",
+      "id": "A9FC095A-055D-4BAE-93C1-1FFF50555C1F"
+    },
+    {
+      "class": "shapePath",
+      "id": "14A231BC-A11E-4CB1-81F1-27C00B575D9F"
+    },
+    {
+      "class": "shapePath",
+      "id": "B1056449-F3AF-450F-AD7C-ADF0E56B6C83"
+    },
+    {
+      "class": "shapePath",
+      "id": "9BBC6FE4-6B40-4A3E-B890-78E2919A5FBC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD6E2355-BC61-41D4-82F2-469FCDB1FC06"
+    },
+    {
+      "class": "shapePath",
+      "id": "12EF9653-8489-4A1C-A6C7-E0DBD06890B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "E82824A4-0061-41D0-A2A2-5FE56E156EA3"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6CB22D57-9EDC-4250-99E3-5F2E343A2021",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

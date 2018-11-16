@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "761F661F-2E72-400A-80EC-09052DEDA897",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16DC0FB3-4A41-4C89-853E-C9CC6F541FC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "527CE587-FB78-403A-B206-94D0F8C8BB1C",
+    "height": 56,
+    "width": 383.9999999999999,
+    "x": 0,
+    "y": 96
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/text-input-label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B1AACD7-79E2-4E69-B342-05EE3E3F1482",
+      "overrideName": "8577FF4C-A364-4EA7-8707-68B2449CEA4D/F8F1A2F1-877A-4C57-964D-C9D7D9C15248_stringValue",
+      "value": "example@email.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F40BF1F0-6BF0-4FA3-A31B-7CDC58123F27",
+      "overrideName": "8577FF4C-A364-4EA7-8707-68B2449CEA4D/B804DF2A-94FE-4D3E-8782-638F84456AF6_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF1012D1-58A6-4599-921E-9DF7EB28DEFF",
+      "overrideName": "0C54CBB8-877F-4B76-BB88-6C2001F3DA4C_stringValue",
+      "value": "email address"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D7E91FA-4616-4E8E-A9ED-8B3E92AAE7B6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "51F6FE3E-00C6-4A90-8DA9-8928A81F22B5",
+  "verticalSpacing": 0
+}

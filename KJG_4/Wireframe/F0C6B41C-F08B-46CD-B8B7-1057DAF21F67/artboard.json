@@ -1,0 +1,192 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "22B9E822-7E6C-4D7E-B8D0-43FA1B79879D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0C6B41C-F08B-46CD-B8B7-1057DAF21F67",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5350AA74-E706-4393-B7B6-AF30F5B73BDB",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F01A4C9F-DD19-464A-9FD0-DCE0F1A1839E",
+    "height": 4210,
+    "width": 1440,
+    "x": -1384,
+    "y": -4118
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "0B945215-7F2B-4E27-A961-7FA2887C1816",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 4
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B6373C6C-A0CE-417E-9ED5-1CE38011014B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FDCC2DCD-DBA2-411E-BEBF-56AB2C62E0E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AAD6061-032C-4870-9B61-542B4F726C2B"
+    },
+    {
+      "class": "group",
+      "id": "FD6A4ABA-8B2B-4F3D-BBF5-10F42CB563EB"
+    },
+    {
+      "class": "group",
+      "id": "1EEE5F6F-8A8C-405D-A66D-019F32D4F282"
+    },
+    {
+      "class": "text",
+      "id": "7BF0FA2A-F0DE-4CFB-941C-019BFCC8A528"
+    },
+    {
+      "class": "group",
+      "id": "F572B5F7-1942-408A-9A3F-17A83ACD0545"
+    },
+    {
+      "class": "group",
+      "id": "90AF92C0-2750-4972-BECF-F2B45FF185DF"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 64,
+    "do_objectID": "6476F1BA-FD22-408C-ADAD-CED337519E65",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 16,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 144,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1152
+  },
+  "name": "03 Our Work - Project",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30F23BF2-4D89-4235-8C59-0B3560E3AEA6",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2543048469387755,
+                "green": 0.2310909003086912,
+                "red": 0.217825787948643
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EDCE1CC3-B95B-4A0B-9828-16A7CB791D88",
+    "guides": [
+    ]
+  }
+}

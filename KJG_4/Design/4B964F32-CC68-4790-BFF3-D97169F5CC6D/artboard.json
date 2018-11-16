@@ -1,0 +1,281 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "299CCF08-0DC0-46CC-BFA2-699533FD1B5D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B964F32-CC68-4790-BFF3-D97169F5CC6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03CDB187-7705-46ED-BA1E-C9FB6D740469",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62F6B7E7-2754-4802-B988-045468B69728",
+    "height": 2090,
+    "width": 1440,
+    "x": -9,
+    "y": 2253
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "6E6F1FEE-AE50-415F-98CE-59BF2941EA65",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 4
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9E9A23B5-48D9-42F6-AA12-199CF9D4FD25",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "7A80428F-A06F-4FE0-B540-241800F96DC4"
+    },
+    {
+      "class": "text",
+      "id": "C494B694-768E-40B7-8B9E-822DD790733D"
+    },
+    {
+      "class": "text",
+      "id": "C91695D3-BF66-439F-947B-F4F14DEDA4EF"
+    },
+    {
+      "class": "group",
+      "id": "11A17925-81C9-49CC-9060-92E85DAA00BF"
+    },
+    {
+      "class": "rectangle",
+      "id": "F4C6F68D-4F15-4951-AADF-9E1CFFF575AB"
+    },
+    {
+      "class": "group",
+      "id": "FFA9F1ED-EB27-411D-A151-F1F22C4126B2"
+    },
+    {
+      "class": "rectangle",
+      "id": "515AE126-2315-422D-B213-C29E5EB88C14"
+    },
+    {
+      "class": "group",
+      "id": "15F9B093-3B7A-4093-B04D-BD8269ACAC95"
+    },
+    {
+      "class": "group",
+      "id": "91A7F12B-5F2B-4608-A094-CB9A4E3094FF"
+    },
+    {
+      "class": "text",
+      "id": "3091415F-6A64-47DB-A3DA-D923294089DC"
+    },
+    {
+      "class": "shapePath",
+      "id": "19FB00A5-AC02-4D62-B92F-17C0546F7E34"
+    },
+    {
+      "class": "shapePath",
+      "id": "B1B55C1E-5BFC-42DD-A713-F51B9F51ECD7"
+    },
+    {
+      "class": "shapePath",
+      "id": "94C7F401-DF30-418F-8934-F31F2BB55D5A"
+    },
+    {
+      "class": "shapePath",
+      "id": "FE68F8AF-C461-4A01-92B1-40C86540E4DC"
+    },
+    {
+      "class": "shapePath",
+      "id": "9A0259EE-4720-4DC3-B2E8-D934898D8224"
+    },
+    {
+      "class": "shapePath",
+      "id": "212B325E-18F4-41D6-88F9-CF99240A385B"
+    },
+    {
+      "class": "shapePath",
+      "id": "E34A0424-837D-4CEB-BBA2-1A075E6FF84B"
+    },
+    {
+      "class": "shapePath",
+      "id": "EDEE7ED7-43C0-4D7C-A545-DB6D08B1C8BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B94812E-69D8-4440-8DA3-A30D8F007179"
+    },
+    {
+      "class": "shapePath",
+      "id": "95937B62-F4B9-44A5-856B-82497C2C0227"
+    },
+    {
+      "class": "shapePath",
+      "id": "2DF53B99-F13A-4A7C-B521-E4DA52C70F2A"
+    },
+    {
+      "class": "rectangle",
+      "id": "9722EFFA-3D31-4228-9CD7-10673B4766B1"
+    },
+    {
+      "class": "rectangle",
+      "id": "482E6AAC-1313-4A1D-A440-FE878174C782"
+    },
+    {
+      "class": "text",
+      "id": "03922CE9-0188-4607-85C0-7335072F63B4"
+    },
+    {
+      "class": "text",
+      "id": "6943D9F6-2180-499D-B5DA-4AA2B3E2AEFA"
+    },
+    {
+      "class": "group",
+      "id": "256242DC-556D-4B9E-8AD2-98B6C7F53FA6"
+    },
+    {
+      "class": "text",
+      "id": "AC026D2C-70FB-4115-BEC9-4192DCCF6A23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74FF6BE9-BB23-4E7A-AB07-3432BA6F28B6"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 68.33333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 16,
+    "gutterWidth": 40,
+    "guttersOutside": true,
+    "horizontalOffset": 70,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1300
+  },
+  "name": "05 Careers - Job posting",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2C2AAAC-4299-495B-90D2-DA47B7AAA678",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2543048469387755,
+                "green": 0.2310909003086912,
+                "red": 0.217825787948643
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A2788B20-402A-4B16-8772-566E9D5A270E",
+    "guides": [
+    ]
+  }
+}

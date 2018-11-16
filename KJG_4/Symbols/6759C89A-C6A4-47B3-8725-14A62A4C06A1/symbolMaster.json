@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CB6A1370-536E-4AD6-BDDB-DE96AADB9191",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 713,
+  "clippingMaskMode": 0,
+  "do_objectID": "6759C89A-C6A4-47B3-8725-14A62A4C06A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B92BF36B-32C8-4BA5-9DC0-19454C43247A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "439480F0-A4BB-46FC-9F7D-5286E6260B06",
+    "height": 1,
+    "width": 352,
+    "x": 100,
+    "y": 538
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "83EE00F0-E559-4FEA-8210-0F67A74EA030",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D3566962-1D3E-44C0-9CC4-FAFC8C65ECB2"
+    }
+  ],
+  "name": "separator",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A88FAE0A-069D-45A6-BBB4-E04A506927CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54193E7C-EADB-40C1-927F-D7A64FD21C9B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E1BDF3BB-F6E2-4D33-BC5A-4E1D802A1A72",
+    "guides": [
+    ]
+  }
+}

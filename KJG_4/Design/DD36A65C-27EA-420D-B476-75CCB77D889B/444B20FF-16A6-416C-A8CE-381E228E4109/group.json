@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "444B20FF-16A6-416C-A8CE-381E228E4109",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB43CE0C-FA56-4D4C-AEB9-A2783C78A038",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF30E75F-D4EB-48E8-9913-0ADA58327BE7",
+    "height": 1031,
+    "width": 480,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "94D38BD8-681A-4007-8474-372D5E91CF99"
+    },
+    {
+      "class": "bitmap",
+      "id": "43317B11-B9B2-46AD-BD15-5E162B7C75FE"
+    }
+  ],
+  "name": "Girl",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6543722-30FB-41BF-99E5-F6B5E2923634",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

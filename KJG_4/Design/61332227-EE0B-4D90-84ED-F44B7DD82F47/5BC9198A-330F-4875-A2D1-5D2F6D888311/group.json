@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BC9198A-330F-4875-A2D1-5D2F6D888311",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "801D86F0-47A7-49F5-8EE3-13537006F46E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CFA2F55-C542-4EE1-BC15-F31847285039",
+    "height": 1600,
+    "width": 3253,
+    "x": -26,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6CFF2DEF-60F6-4E62-8B91-3053F68649BD"
+    },
+    {
+      "class": "bitmap",
+      "id": "91FDEFDF-D4DB-4BEF-AAF6-6A3AB17F9055"
+    }
+  ],
+  "name": "bling",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01E1B090-9C38-4004-807E-52D7734AB48A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E00FD9C3-A3A4-4294-BAF6-6605214C307C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0DE311D4-C02C-4EA1-92C9-DFCD943E55CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E510BF93-2DCB-40D9-BBCA-C5169CC68473",
+    "height": 1031,
+    "width": 480,
+    "x": 480,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4F6C7A2D-5F16-4A7C-8887-32106013FC44"
+    },
+    {
+      "class": "bitmap",
+      "id": "6959F1DF-5D34-43CF-AA84-E25550A9BAE6"
+    }
+  ],
+  "name": "bling",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A891070A-9A94-440F-87C1-EEC6B852B023",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
