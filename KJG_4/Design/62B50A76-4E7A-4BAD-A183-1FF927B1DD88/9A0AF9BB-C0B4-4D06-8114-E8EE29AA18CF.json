@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PlayfairDisplay-Black",
+              "name": "Vesterbro-Bold",
               "size": 60
             }
           },
@@ -58,9 +58,9 @@
     "height": 213,
     "width": 884,
     "x": 100,
-    "y": 2976
+    "y": 2978
   },
-  "glyphBounds": "{{-2, 29}, {340, 55}}",
+  "glyphBounds": "{{2, 29}, {352, 55}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PlayfairDisplay-Black",
+            "name": "Vesterbro-Bold",
             "size": 60
           }
         },

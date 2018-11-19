@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Vesterbro-Extrabold",
+              "name": "Vesterbro-Bold",
               "size": 65
             }
           },
@@ -56,11 +56,11 @@
     "constrainProportions": false,
     "do_objectID": "6FC9FA51-57F3-4C9C-BA23-89D751DD899D",
     "height": 95,
-    "width": 231,
+    "width": 224,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 21}, {226, 53}}",
+  "glyphBounds": "{{3, 22}, {219, 52}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Vesterbro-Extrabold",
+            "name": "Vesterbro-Bold",
             "size": 65
           }
         },

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.8901960784313725,
+            "green": 0.8901960784313725,
+            "red": 0.8901960784313725
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 19,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "View work from our "
+    "string": "I’m interested in"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,11 +56,11 @@
     "constrainProportions": false,
     "do_objectID": "63446C09-64B2-4563-B020-7370D7EF500B",
     "height": 83,
-    "width": 1132,
-    "x": 433,
-    "y": 1156
+    "width": 462,
+    "x": 234,
+    "y": 676
   },
-  "glyphBounds": "{{0, 12}, {514, 42}}",
+  "glyphBounds": "{{2, 12}, {416, 42}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "View work from our",
+  "name": "I’m interested in",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,9 +88,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.8901960784313725,
+          "green": 0.8901960784313725,
+          "red": 0.8901960784313725
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

@@ -267,9 +267,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.357,
-          "green": 0.11,
-          "red": 0.882
+          "blue": 0.6078431372549019,
+          "green": 0.1411764705882353,
+          "red": 0.435294117647059
         },
         "fillType": 0,
         "gradient": {

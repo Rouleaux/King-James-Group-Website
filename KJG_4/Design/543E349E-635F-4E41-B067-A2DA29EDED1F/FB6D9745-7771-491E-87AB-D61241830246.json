@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.8901960784313725,
+            "green": 0.8901960784313725,
+            "red": 0.8901960784313725
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -34,7 +34,7 @@
         "location": 0
       }
     ],
-    "string": "office."
+    "string": "done by"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,11 +56,11 @@
     "constrainProportions": false,
     "do_objectID": "2C434196-E4F3-432C-9517-798847861BB2",
     "height": 83,
-    "width": 179,
-    "x": 1470,
-    "y": 1156
+    "width": 213,
+    "x": 1093,
+    "y": 676
   },
-  "glyphBounds": "{{2, 12}, {148, 42}}",
+  "glyphBounds": "{{2, 12}, {201, 54}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "office.",
+  "name": "done by",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,9 +88,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.8901960784313725,
+          "green": 0.8901960784313725,
+          "red": 0.8901960784313725
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

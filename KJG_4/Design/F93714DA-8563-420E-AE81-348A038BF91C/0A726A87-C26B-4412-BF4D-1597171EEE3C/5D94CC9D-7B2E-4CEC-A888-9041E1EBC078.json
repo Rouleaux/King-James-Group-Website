@@ -16,6 +16,35 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "Vesterbro-Bold",
+              "size": 36
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 44,
+            "minimumLineHeight": 44
+          }
+        },
+        "length": 10,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "Vesterbro-Extrabold",
               "size": 36
             }
@@ -29,8 +58,8 @@
             "minimumLineHeight": 44
           }
         },
-        "length": 11,
-        "location": 0
+        "length": 1,
+        "location": 10
       },
       {
         "_class": "stringAttribute",
@@ -103,7 +132,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Vesterbro-Extrabold",
+              "name": "Vesterbro-Bold",
               "size": 36
             }
           },
@@ -277,7 +306,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Vesterbro-Extrabold",
+              "name": "Vesterbro-Bold",
               "size": 36
             }
           },
@@ -422,7 +451,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Vesterbro-Extrabold",
+              "name": "Vesterbro-Bold",
               "size": 36
             }
           },
@@ -567,7 +596,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Vesterbro-Extrabold",
+              "name": "Vesterbro-Bold",
               "size": 36
             }
           },
@@ -646,7 +675,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Vesterbro-Extrabold",
+            "name": "Vesterbro-Bold",
             "size": 36
           }
         },

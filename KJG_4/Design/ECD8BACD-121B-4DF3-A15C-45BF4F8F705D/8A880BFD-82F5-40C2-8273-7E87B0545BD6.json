@@ -39,9 +39,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.357,
-            "green": 0.11,
-            "red": 0.882
+            "blue": 0.6078431372549019,
+            "green": 0.1411764705882353,
+            "red": 0.435294117647059
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -60,38 +60,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 22,
         "location": 19
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.8901960784313725,
-            "green": 0.8901960784313725,
-            "red": 0.8901960784313725
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Vesterbro-Extrabold",
-              "size": 100
-            }
-          },
-          "kerning": 0.2461538,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 195,
-            "minimumLineHeight": 195
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 7,
-        "location": 34
       }
     ],
     "string": "Iindaba\nImisebenzi\nUqhagamshwelano       "

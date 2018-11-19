@@ -223,6 +223,10 @@
     {
       "class": "group",
       "id": "621D3470-C7DF-4F2E-BBC3-4109D4DA68FB"
+    },
+    {
+      "class": "rectangle",
+      "id": "0594FB46-80C3-4674-9064-E1399BD157F9"
     }
   ],
   "name": "Design",

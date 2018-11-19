@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "56624337-EB9F-4B3B-A521-872A9B166918",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "390F8A6D-7BE9-46E5-8BE4-3A91433ED966",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0CA380A-1C1E-4BED-ABF0-EA65FE06F8F9",
+    "height": 134.2940414507771,
+    "width": 693.0699481865283,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E8EFCE44-0289-45E1-A32F-441B3C64CB67"
+    },
+    {
+      "class": "shapePath",
+      "id": "FF3D1AB2-669E-4DB2-887B-31EF44D85FA9"
+    },
+    {
+      "class": "shapePath",
+      "id": "A7874694-99A3-4B2E-9689-A47460ADAD44"
+    },
+    {
+      "class": "shapePath",
+      "id": "0ACC9924-AB7A-4C17-94AE-03321CBB4A60"
+    },
+    {
+      "class": "shapePath",
+      "id": "78B2E3CE-600C-487F-AEF1-14A25C852E16"
+    },
+    {
+      "class": "shapePath",
+      "id": "36688F2A-BDDE-4D1D-801D-16F00A36E7D0"
+    },
+    {
+      "class": "shapePath",
+      "id": "4AE3B34B-DEE2-4B82-91F9-EAE42498A888"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ECA04129-8E5C-4FC3-9F74-9FCAF2B87B71"
+    },
+    {
+      "class": "shapePath",
+      "id": "81A4FD0A-2EF7-4E2A-AF13-C7DAF17FEDBC"
+    },
+    {
+      "class": "shapePath",
+      "id": "8F0A8377-59D4-4765-AE78-19B2B893118B"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B30FAE2-F6E1-430E-B74B-693F1C879C19",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
