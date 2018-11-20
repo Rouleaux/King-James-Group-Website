@@ -153,6 +153,37 @@
           }
         ],
         "to": "{0.5, 0.98130419075144504}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.5, 0.95077137881919471}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.1568627450980392,
+              "green": 0.09019607843137253,
+              "red": 0.1254901960784314
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9669430272108843,
+              "green": 0.03750414282466458,
+              "red": 0.6235542768218869
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.49999999999999961, -1.3877787807814457e-16}"
       }
     ],
     "imageCollection": {

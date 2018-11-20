@@ -227,6 +227,82 @@
     {
       "class": "rectangle",
       "id": "0594FB46-80C3-4674-9064-E1399BD157F9"
+    },
+    {
+      "class": "group",
+      "id": "2BCFF491-BF4A-4720-A3AE-45D6EEAA0C4B"
+    },
+    {
+      "class": "group",
+      "id": "66944708-980D-4485-AFBB-39B1C9DF2B9C"
+    },
+    {
+      "class": "group",
+      "id": "5616B4F5-10C8-4FC5-B982-0AC247718529"
+    },
+    {
+      "class": "group",
+      "id": "591C5623-18F8-4EEA-BC14-38186FFC9ACA"
+    },
+    {
+      "class": "group",
+      "id": "EDBB337B-68F4-431B-9859-6401734E71D3"
+    },
+    {
+      "class": "rectangle",
+      "id": "96888A0C-E184-49FF-A85D-8D2592174233"
+    },
+    {
+      "class": "rectangle",
+      "id": "18D1748D-7A93-470C-BB6D-D58672860619"
+    },
+    {
+      "class": "text",
+      "id": "414E3AA7-D756-4EA7-8193-F07F6B86640D"
+    },
+    {
+      "class": "text",
+      "id": "7B947FB1-61AE-49F4-9028-CEFC906F2E2C"
+    },
+    {
+      "class": "text",
+      "id": "BEEF9D32-044D-40F3-A5BA-29BF27B47E4A"
+    },
+    {
+      "class": "text",
+      "id": "21897CB5-3017-4808-8AF0-BF18C1CDDFF3"
+    },
+    {
+      "class": "text",
+      "id": "35C98578-D62B-446E-84AA-1BFD9D8208E8"
+    },
+    {
+      "class": "text",
+      "id": "34683582-67CD-4F12-95CD-C4A031E8E523"
+    },
+    {
+      "class": "text",
+      "id": "2FE62B54-AE83-4B6C-A4FE-6EFC660E0FA1"
+    },
+    {
+      "class": "text",
+      "id": "D15DF48C-4B0E-4C17-82A3-C2A206BD98A4"
+    },
+    {
+      "class": "text",
+      "id": "43FCECB0-E078-4FAD-906C-AC964806187F"
+    },
+    {
+      "class": "text",
+      "id": "D464D5F2-D4A2-449C-AF91-96AD783D7C31"
+    },
+    {
+      "class": "group",
+      "id": "1B342EFD-E325-4220-A6DC-8A31C54A88B2"
+    },
+    {
+      "class": "group",
+      "id": "B8AB22D0-2747-4D58-92C8-CD493F97EF7D"
     }
   ],
   "name": "Design",

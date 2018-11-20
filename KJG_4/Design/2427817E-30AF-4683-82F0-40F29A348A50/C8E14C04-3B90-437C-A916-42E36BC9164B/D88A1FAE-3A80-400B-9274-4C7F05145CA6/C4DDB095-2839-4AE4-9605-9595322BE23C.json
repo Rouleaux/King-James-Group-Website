@@ -20,8 +20,8 @@
     "do_objectID": "D6FC7C65-26B7-40AD-AAD2-E750F8532390",
     "height": 10.81491712707183,
     "width": 21.62983425414361,
-    "x": 106,
-    "y": 11
+    "x": 128,
+    "y": 12
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -125,7 +125,7 @@
         },
         "isEnabled": true,
         "position": 0,
-        "thickness": 2
+        "thickness": 3
       }
     ],
     "do_objectID": "B0371F7A-4755-4033-BA39-71D5DAB085EB",

@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 35,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Co-founder, Chief Executive Officer"
+    "string": "Founder & Group CEO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,11 +57,11 @@
     "constrainProportions": false,
     "do_objectID": "ED1E37A2-F445-4973-BC22-566782B82B41",
     "height": 57,
-    "width": 513,
+    "width": 303,
     "x": 100,
-    "y": 3064
+    "y": 2920
   },
-  "glyphBounds": "{{0, 20}, {512, 21}}",
+  "glyphBounds": "{{1, 20}, {301, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +70,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Co-founder, Chief Ex",
+  "name": "Founder & Group CEO",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

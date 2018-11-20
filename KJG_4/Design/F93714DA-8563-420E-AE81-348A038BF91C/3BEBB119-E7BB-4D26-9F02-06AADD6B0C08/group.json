@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3BEBB119-E7BB-4D26-9F02-06AADD6B0C08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5488E705-A464-40E5-AFEA-C5254C3806D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B59EF61-42F1-472F-80CE-93E1AE8DC7D4",
+    "height": 25,
+    "width": 31,
+    "x": 2151,
+    "y": 1289
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "22AB36AA-BD5A-406B-94A1-EF2AAFE72CF6"
+    }
+  ],
+  "name": "icons/social/twitter/black",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAFB83D4-0042-4B87-B94A-F57C627F1622",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

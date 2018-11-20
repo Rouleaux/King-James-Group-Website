@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Bold",
-              "size": 22
+              "size": 28
             }
           },
           "kerning": 0,
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "EF12056D-C2D2-483E-8338-3A79D36743E7",
     "height": 32,
-    "width": 123,
+    "width": 157,
     "x": 1,
-    "y": 1
+    "y": 0
   },
-  "glyphBounds": "{{1, 8}, {122, 17}}",
+  "glyphBounds": "{{2, 6}, {154, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -96,7 +96,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Bold",
-            "size": 22
+            "size": 28
           }
         },
         "kerning": 0,

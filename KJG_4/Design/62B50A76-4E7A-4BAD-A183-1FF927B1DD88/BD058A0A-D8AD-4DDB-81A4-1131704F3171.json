@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Managing Director"
+    "string": "Group CFO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,11 +57,11 @@
     "constrainProportions": false,
     "do_objectID": "766D3E5F-94BB-4204-AF32-F088EAF94F15",
     "height": 57,
-    "width": 273,
+    "width": 148,
     "x": 100,
-    "y": 4310
+    "y": 4166
   },
-  "glyphBounds": "{{1, 20}, {271, 18}}",
+  "glyphBounds": "{{0, 20}, {147, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +70,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Managing Director Copy",
+  "name": "Group CFO",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

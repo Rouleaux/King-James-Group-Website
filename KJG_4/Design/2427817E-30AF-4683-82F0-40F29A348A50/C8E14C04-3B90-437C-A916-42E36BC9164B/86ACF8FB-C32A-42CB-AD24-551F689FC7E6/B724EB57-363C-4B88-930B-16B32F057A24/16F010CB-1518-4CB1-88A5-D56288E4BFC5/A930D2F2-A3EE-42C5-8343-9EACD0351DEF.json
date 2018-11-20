@@ -17,14 +17,14 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Medium",
-              "size": 24
+              "size": 27
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 32,
             "minimumLineHeight": 32
@@ -56,11 +56,11 @@
     "constrainProportions": false,
     "do_objectID": "B9D739FB-BEB3-479B-A080-CEEC65A8B407",
     "height": 32,
-    "width": 131,
+    "width": 147,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 8}, {130, 18}}",
+  "glyphBounds": "{{1, 6}, {146, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -97,14 +97,14 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Medium",
-            "size": 24
+            "size": 27
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 32,
           "minimumLineHeight": 32

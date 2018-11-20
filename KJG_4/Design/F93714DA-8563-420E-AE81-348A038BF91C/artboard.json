@@ -58,8 +58,36 @@
       "id": "9C720F2D-6ABF-4448-8A1B-D374B8EC0A41"
     },
     {
+      "class": "text",
+      "id": "5D94CC9D-7B2E-4CEC-A888-9041E1EBC078"
+    },
+    {
       "class": "group",
-      "id": "0A726A87-C26B-4412-BF4D-1597171EEE3C"
+      "id": "049D408A-5291-4E50-8540-B119DA602294"
+    },
+    {
+      "class": "group",
+      "id": "3BEBB119-E7BB-4D26-9F02-06AADD6B0C08"
+    },
+    {
+      "class": "group",
+      "id": "4964C375-5790-43D5-B562-7D225730F385"
+    },
+    {
+      "class": "group",
+      "id": "E88C5B49-0715-437B-A7E4-06BCA9E20B19"
+    },
+    {
+      "class": "text",
+      "id": "C961F78B-3FAA-4356-BA70-182F4F53C5E1"
+    },
+    {
+      "class": "shapePath",
+      "id": "E5FC9CA6-3E4A-4EBD-9A5B-D4C7099DC9DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "17740B4A-55AD-453C-8002-8DAAAE717E40"
     },
     {
       "class": "rectangle",

@@ -17,9 +17,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "83BEAA04-6D60-49E9-8C46-55A8AE85867D",
-    "height": 345,
+    "height": 208,
     "width": 703,
-    "x": 1,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -38,10 +38,6 @@
     {
       "class": "text",
       "id": "A38AC1D3-64BF-4D6F-894C-5E0A9F8331AC"
-    },
-    {
-      "class": "group",
-      "id": "DF1A6895-52DC-46D0-9CAE-F0EA1653A64C"
     }
   ],
   "name": "Group 7",

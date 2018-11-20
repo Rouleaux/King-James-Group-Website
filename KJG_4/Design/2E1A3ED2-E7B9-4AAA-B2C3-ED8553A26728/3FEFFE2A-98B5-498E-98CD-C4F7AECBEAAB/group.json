@@ -17,9 +17,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B520ABDD-15A3-4815-8FE3-0BB5946BFEA0",
-    "height": 345,
-    "width": 704,
-    "x": 917,
+    "height": 208,
+    "width": 703,
+    "x": 918,
     "y": 1015
   },
   "hasClickThrough": false,
@@ -34,10 +34,6 @@
     {
       "class": "group",
       "id": "30DE790A-DF8E-486D-B221-367A8EFCF096"
-    },
-    {
-      "class": "shapePath",
-      "id": "86265E94-4A62-4DC0-BD33-B258C84FEFDE"
     }
   ],
   "name": "Group 12",

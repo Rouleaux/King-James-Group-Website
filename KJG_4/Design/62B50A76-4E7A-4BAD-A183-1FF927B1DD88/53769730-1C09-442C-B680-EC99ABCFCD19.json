@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Taryn Walker"
+    "string": "Cameron Benjamin"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -58,9 +58,9 @@
     "height": 213,
     "width": 884,
     "x": 100,
-    "y": 4224
+    "y": 4080
   },
-  "glyphBounds": "{{2, 25}, {405, 59}}",
+  "glyphBounds": "{{3, 24}, {575, 60}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Taryn Walker Copy",
+  "name": "Cameron Benjamin",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

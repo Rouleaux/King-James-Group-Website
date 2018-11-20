@@ -19,10 +19,10 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "C9756340-78E2-4ADA-B048-0632F25C7739",
-    "height": 1562,
-    "width": 2778,
-    "x": 0,
-    "y": 27
+    "height": 1579,
+    "width": 2808,
+    "x": 17,
+    "y": 10
   },
   "hasClippingMask": false,
   "image": {
@@ -45,6 +45,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.800000011920929
+    },
     "do_objectID": "64BBFFA4-0967-455A-8BC4-C8CDE04EF88C",
     "endMarkerType": 0,
     "miterLimit": 10,

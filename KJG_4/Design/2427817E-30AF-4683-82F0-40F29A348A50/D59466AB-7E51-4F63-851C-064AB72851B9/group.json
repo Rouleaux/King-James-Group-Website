@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 307,
-    "width": 703,
-    "x": 917,
+    "height": 178,
+    "width": 641,
+    "x": 918,
     "y": 1053
   },
   "hasClickThrough": false,
@@ -27,15 +27,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "210DF2E2-7C4A-4044-B212-F7A865DE0975"
-    },
-    {
-      "class": "shapePath",
-      "id": "865EBB65-0461-42F2-814C-74A4A2DF352B"
     }
   ],
   "name": "Group 12",

@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Matthew Ross"
+    "string": "Matt Ross"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -58,9 +58,9 @@
     "height": 213,
     "width": 884,
     "x": 1330,
-    "y": 4224
+    "y": 4080
   },
-  "glyphBounds": "{{1, 25}, {412, 47}}",
+  "glyphBounds": "{{1, 29}, {284, 43}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Matthew Ross",
+  "name": "Matt Ross",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

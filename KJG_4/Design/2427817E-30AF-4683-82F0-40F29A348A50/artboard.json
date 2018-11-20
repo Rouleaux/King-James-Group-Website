@@ -101,6 +101,10 @@
     {
       "class": "text",
       "id": "45ECC9A9-4BB4-46E0-965A-EC714DEDA3EA"
+    },
+    {
+      "class": "group",
+      "id": "2FDD720B-3A45-4815-9BFA-FC503705A265"
     }
   ],
   "layout": {

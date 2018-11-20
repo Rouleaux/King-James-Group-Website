@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Regular",
-              "size": 22
+              "size": 27
             }
           },
           "kerning": 0,
@@ -29,11 +29,11 @@
             "minimumLineHeight": 32
           }
         },
-        "length": 10,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "King James"
+    "string": "King James Group SA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "757CE14A-A0CB-48CF-9780-A2F5A8D42859",
     "height": 32,
-    "width": 129,
-    "x": 3,
-    "y": 43
+    "width": 294,
+    "x": 0,
+    "y": 42
   },
-  "glyphBounds": "{{2, 7}, {126, 22}}",
+  "glyphBounds": "{{3, 5}, {291, 27}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "King James",
+  "name": "King James Group SA",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -96,7 +96,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Regular",
-            "size": 22
+            "size": 27
           }
         },
         "kerning": 0,

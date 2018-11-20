@@ -68,12 +68,12 @@
       "id": "F3D2DF85-E79E-4DB6-9FBD-FA57C435AA38"
     },
     {
-      "class": "shapePath",
-      "id": "57AD3FFF-1266-4744-81E9-FF009EF116A3"
+      "class": "rectangle",
+      "id": "B6166DCA-2339-46A2-85DD-9F2A6B54C32C"
     },
     {
-      "class": "group",
-      "id": "656189B6-CDC2-462B-9F59-BCA205486C75"
+      "class": "shapePath",
+      "id": "57AD3FFF-1266-4744-81E9-FF009EF116A3"
     },
     {
       "class": "text",
@@ -102,6 +102,10 @@
     {
       "class": "group",
       "id": "5BF50FE0-BB02-465A-A7E1-557BD09601E2"
+    },
+    {
+      "class": "group",
+      "id": "516C5FA1-E426-4B02-8104-90A77495A156"
     }
   ],
   "layout": {

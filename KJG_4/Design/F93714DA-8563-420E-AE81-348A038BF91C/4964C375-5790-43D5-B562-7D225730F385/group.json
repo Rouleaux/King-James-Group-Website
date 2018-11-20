@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4964C375-5790-43D5-B562-7D225730F385",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4741B39E-74CE-4F77-98D5-32479C0F314C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "12A21454-6346-486E-8AC2-9CA10CC4BDB0",
+    "height": 28,
+    "width": 30,
+    "x": 1376,
+    "y": 1288.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6787ED6B-1CDA-4209-95EF-60268217FC02"
+    }
+  ],
+  "name": "icons/social/facebook/black",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C12BE689-12FB-4F0E-B3B3-CC070601BC3D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

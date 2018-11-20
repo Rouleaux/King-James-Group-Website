@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCE311A8-57AD-4E74-BAA4-A2752A4ABEBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1AE805F2-712E-43F1-B73E-9650C797D96A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D41EF41E-1676-4E19-B5E6-360DC50FD5C7",
+    "height": 832,
+    "width": 854,
+    "x": 0,
+    "y": 9019
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C7B346CA-5250-4348-8A75-4CFBA42EC4A4"
+    }
+  ],
+  "name": "James Barty_web_pic Copy 12",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "833D2481-C95E-4E5F-80DE-CD90B02F0463",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

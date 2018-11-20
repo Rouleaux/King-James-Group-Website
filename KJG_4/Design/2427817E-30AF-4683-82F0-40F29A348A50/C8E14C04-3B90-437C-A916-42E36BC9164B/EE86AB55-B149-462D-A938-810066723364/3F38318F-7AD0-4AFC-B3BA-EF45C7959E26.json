@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Regular",
-              "size": 22
+              "size": 27
             }
           },
           "kerning": 0,
@@ -29,11 +29,11 @@
             "minimumLineHeight": 32
           }
         },
-        "length": 9,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "Cape Town"
+    "string": "Cape Town & Johannesburg"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "05645937-DFFC-430A-8CB2-9F30CB6378F0",
     "height": 32,
-    "width": 124,
+    "width": 381,
     "x": 0,
-    "y": 43
+    "y": 42
   },
-  "glyphBounds": "{{1, 8}, {121, 21}}",
+  "glyphBounds": "{{1, 5}, {377, 27}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Cape Town",
+  "name": "Cape Town & Johannes",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -96,7 +96,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Regular",
-            "size": 22
+            "size": 27
           }
         },
         "kerning": 0,

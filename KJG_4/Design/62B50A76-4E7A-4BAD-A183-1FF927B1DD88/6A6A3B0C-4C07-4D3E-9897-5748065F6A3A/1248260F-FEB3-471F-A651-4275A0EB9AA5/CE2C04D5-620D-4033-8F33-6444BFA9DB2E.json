@@ -20,8 +20,8 @@
     "do_objectID": "46D7D0E0-9893-418C-A19B-9226239AF519",
     "height": 10.81491712707183,
     "width": 21.62983425414361,
-    "x": 145,
-    "y": 11
+    "x": 178,
+    "y": 13
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -87,9 +87,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.1568627450980392,
+          "green": 0.09019607843137253,
+          "red": 0.1254901960784314
         },
         "fillType": 0,
         "gradient": {
@@ -125,7 +125,7 @@
         },
         "isEnabled": true,
         "position": 0,
-        "thickness": 2
+        "thickness": 3
       }
     ],
     "do_objectID": "7988F2C4-3965-4E3F-83EA-D1E11F25B065",

@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 34,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Co-founder, Chief Creative Officer"
+    "string": "Founder & Group CCO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,11 +57,11 @@
     "constrainProportions": false,
     "do_objectID": "F6C95D60-8F54-4204-ABC1-C046575C2E08",
     "height": 57,
-    "width": 498,
+    "width": 304,
     "x": 1330,
-    "y": 3064
+    "y": 2920
   },
-  "glyphBounds": "{{0, 20}, {497, 21}}",
+  "glyphBounds": "{{1, 20}, {302, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +70,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Co-founder, Chief Cr",
+  "name": "Founder & Group CCO",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

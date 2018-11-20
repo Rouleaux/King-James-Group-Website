@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "KING JAMES"
+    "string": "KING JAMES GROUP SA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,11 +57,11 @@
     "constrainProportions": false,
     "do_objectID": "9DAFD39A-3BF8-4835-92FB-959E02BCE833",
     "height": 57,
-    "width": 152,
+    "width": 287,
     "x": 100,
-    "y": 2942
+    "y": 2798
   },
-  "glyphBounds": "{{1, 20}, {150, 18}}",
+  "glyphBounds": "{{1, 20}, {287, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +70,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "KING JAMES",
+  "name": "KING JAMES GROUP SA",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

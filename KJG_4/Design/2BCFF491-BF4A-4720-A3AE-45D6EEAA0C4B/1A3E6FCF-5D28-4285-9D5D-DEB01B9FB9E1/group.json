@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A3E6FCF-5D28-4285-9D5D-DEB01B9FB9E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8240D452-723F-4A50-BDF3-8F64D7103010",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1661A0A1-E88A-4E4D-B49A-107BD61AABB3",
+    "height": 1247,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C962F74E-83A7-4C3A-93C6-5AF30083FE86"
+    },
+    {
+      "class": "bitmap",
+      "id": "CD1FAF8C-3745-44F7-BB5B-4B6CFD581151"
+    }
+  ],
+  "name": "Taryn Walker_MD at King James Cape Town",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CFFD7981-3A5B-4611-8275-FD9BC1C7E4F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

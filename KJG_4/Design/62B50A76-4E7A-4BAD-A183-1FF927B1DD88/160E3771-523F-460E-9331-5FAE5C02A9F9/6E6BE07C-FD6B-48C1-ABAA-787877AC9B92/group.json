@@ -29,15 +29,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "0CAF9D98-F366-4B97-8B45-D47F716D2C97"
-    },
-    {
-      "class": "bitmap",
-      "id": "90C623FA-4649-4E02-A95F-7D128FC3920B"
     }
   ],
   "name": "Taryn Walker_MD at King James Cape Town",
